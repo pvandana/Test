@@ -1,0 +1,18 @@
+I:\Corporate Projects\Active Projects\Online Sales Portal (1702900)
+I:\Corporate Projects\Active Projects\Specialty Products (1703000)
+
+
+Here are some logons for UAT - mouat.azblue.com
+
+pkennedy/password1
+crowkendalle/password1
+maxwellgina/passwrod1
+
+
+Logons for QA/Test - motest.azblue.com
+
+kshorb/password1
+ljones/password1
+jcheektest/password1
+rcantu/password1
+
